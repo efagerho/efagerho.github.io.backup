@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Linux Kernel Networking - part 1: The Network Interface Card"
-date:   2022-11-29 19:27:21 +0200
+date:   2023-01-01 19:27:21 +0200
 categories: Linux Networking
 toc: true
 ---
